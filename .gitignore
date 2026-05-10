@@ -1,0 +1,9 @@
+# Ignora tudo
+*
+
+# Permite o próprio .gitignore
+!.gitignore
+
+# Permite a pasta python-faculdade
+!python-faculdade/
+!python-faculdade/**
