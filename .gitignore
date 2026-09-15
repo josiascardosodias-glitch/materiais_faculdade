@@ -1,9 +1,9 @@
-# Ignora tudo
-C/output/
+# Ignora tudo dentro de C/output
+C/output/*
+
+# Permite a própria pasta python-faculdade
+!C/output/python-faculdade/
+!C/output/python-faculdade/**
 
 # Permite o próprio .gitignore
 !.gitignore
-
-# Permite a pasta python-faculdade
-!python-faculdade/
-!python-faculdade/**
