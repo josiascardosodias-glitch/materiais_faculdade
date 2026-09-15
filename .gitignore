@@ -1,5 +1,5 @@
 # Ignora tudo
-*output
+C/output/
 
 # Permite o próprio .gitignore
 !.gitignore
